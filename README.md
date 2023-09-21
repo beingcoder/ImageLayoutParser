@@ -5,9 +5,9 @@ need install native tesseract
 
 Ubuntu:
 
-  sudo apt install tesseract-ocr
+     sudo apt install tesseract-ocr
   
 MacOS:
 
-  brew install tesseract
+      brew install tesseract
 ...  
