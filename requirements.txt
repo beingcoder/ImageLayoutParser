@@ -1,0 +1,14 @@
+layoutparser
+layoutparser[effdet]
+torch
+torchvision
+git+https://github.com/facebookresearch/detectron2.git@v0.5#egg=detectron2
+layoutparser[paddledetection]
+layoutparser[ocr]
+fastapi
+transformers
+opencv_python
+uvicorn
+numpy
+pydantic
+Pillow==9.5
